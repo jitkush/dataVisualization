@@ -38,7 +38,7 @@ Please Note:
 
 ## Authors:
 
-- [Jitendra Prasad](https://github.com/jitkush)
+- [Jitender Prasad](https://github.com/jitkush)
 
 ## License
 
